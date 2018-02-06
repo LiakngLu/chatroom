@@ -1,0 +1,22 @@
+{
+  "name": "chatroom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiakngLu/chatroom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiakngLu/chatroom/issues"
+  },
+  "homepage": "https://github.com/LiakngLu/chatroom#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
